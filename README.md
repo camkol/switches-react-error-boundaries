@@ -53,7 +53,7 @@ Users should be able to:
 
 ### What I learned
 
-This was a class project to learn about context API.
+This was a class project to learn about context Error Boundaries.
 
 ### Continued development
 
